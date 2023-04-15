@@ -1,13 +1,31 @@
 ### Hi, I'm Afjol 👋
 #
 **A computer science graduate with a passion for writing solid code and learning new technologies. Self-confident programmer with active participation on various coding platforms.**
-<br> <br>
-**⚙️ My skills include:**  
+
+### ⚙️ My skills include:
 * **Languages:** ```Python```,```C/C++```
 * **Frameworks:** ```Django```
 * **Database:** ```MySQL```
 * **Data Structures and Algorithms**
-* **Object Oriented Programming**
+* **Object Oriented Programming** 
+
+### To recruiters:
+**I am a highly motivated individual looking for a challenging role at a tech-focused business. I want to join a team where I can take on challenges and learn new technologies while also allowing me to contribute to the dynamics of the firm.**
+
+## Socials:
+<p align="left">
+<a href="https://linkedin.com/in/afjol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afjol" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21600060/reck21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21600060/reck21" height="30" width="40" /></a>
+</p>
+
+## GitHub Stats:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afjol-77&show_icons=true&locale=en" alt="afjol-77" /></p>
+<br>
+
+**Thank you for visiting my profile**
+
+
+
 
 <!--
 **Afjol-77/Afjol-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
