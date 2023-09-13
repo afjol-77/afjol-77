@@ -3,8 +3,8 @@
 **A computer science graduate with a passion for writing solid code and learning new technologies. Self-confident programmer with active participation on various coding platforms.**
 
 ### ⚙️ My skills include:
-* **Languages:** ```C/C++```,```C#```,```Python```
-* **Frameworks:** ```Asp.Net Core```,```Django```
+* **Languages:** ```C/C++```,```Python```,```C#```
+* **Frameworks:** ```Django```
 * **Database:** ```MySQL```
 * **Data Structures and Algorithms**
 * **Object Oriented Programming** 
