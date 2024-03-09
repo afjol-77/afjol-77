@@ -1,11 +1,11 @@
 ### Hi, I'm Afjol 👋
 #
-**A computer science graduate with a passion for writing solid code and learning new technologies. Self-confident programmer with active participation on various coding platforms.**
+**A computer science graduate and software engineer with a passion for writing solid code and learning new technologies. Self-confident programmer with active participation on various coding platforms.**
 
 ### ⚙️ My skills include:
 * **Languages:** ```C/C++```,```Python```,```C#```
-* **Frameworks:** ```Django```
-* **Database:** ```MySQL```
+* **Frameworks:** ```Odoo```,```Django```
+* **Database:** ```PostgreSQL```,```MySQL```
 * **Data Structures and Algorithms**
 * **Object Oriented Programming** 
 
@@ -15,7 +15,7 @@
 ## Socials:
 <p align="left">
 <a href="https://linkedin.com/in/afjol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afjol" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21600060/reck21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21600060/reck21" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21600060/afjol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21600060/afjol" height="30" width="40" /></a>
 </p>
 
 ## GitHub Stats:
