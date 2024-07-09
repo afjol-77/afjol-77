@@ -3,9 +3,10 @@
 **A computer science graduate and software engineer with a passion for writing solid code and learning new technologies. Self-confident programmer with active participation on various coding platforms.**
 
 ### ⚙️ My skills include:
-* **Languages:** ```C/C++```,```Python```,```C#```
-* **Frameworks:** ```Odoo```,```Django```
+* **Languages:** ```C/C++```,```Python```
+* **Libraries and Frameworks:** ```Odoo```,```Django```
 * **Database:** ```PostgreSQL```,```MySQL```
+* **Tools and Platform:** ```Git```,```Docker```
 * **Data Structures and Algorithms**
 * **Object Oriented Programming** 
 
