@@ -4,11 +4,11 @@
 
 ### ⚙️ My skills include:
 * **Languages:** ```C/C++```,```Python```
+* **Concepts:** ```DSA```,```OOP```
 * **Libraries and Frameworks:** ```Odoo```,```Django```
 * **Database:** ```PostgreSQL```,```MySQL```
 * **Tools and Platform:** ```Git```,```Docker```
-* **Data Structures and Algorithms**
-* **Object Oriented Programming** 
+
 
 ### To recruiters:
 **I am a highly motivated individual looking for a new role at a tech-focused business. I want to join a team where I can take on challenges and learn new technologies while also allowing me to contribute to the dynamics of the firm.**
