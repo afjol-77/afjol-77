@@ -2,12 +2,14 @@
 #
 **A computer science graduate and software engineer with a passion for writing solid code and learning new technologies. Self-confident programmer with active participation on various coding platforms.**
 
-### ⚙️ My skills include:
-* **Languages:** ```C/C++```,```Python```
+### ⚙️ My skills include: 
+
+* **Languages:** ```Python```,```C++```,```JavaScript```
 * **Concepts:** ```DSA```,```OOP```
 * **Libraries and Frameworks:** ```Odoo```,```Django```
-* **Database:** ```PostgreSQL```,```MySQL```
-* **Tools and Platform:** ```Git```
+* **Technologies:** `XML`, `Bootstrap`
+* **Databases:** ```PostgreSQL```,```MySQL```
+* **Tools:** ```Git```, ```Linux```
 
 
 ### To recruiters:
