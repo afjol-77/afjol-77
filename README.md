@@ -7,7 +7,7 @@
 * **Concepts:** ```DSA```,```OOP```
 * **Libraries and Frameworks:** ```Odoo```,```Django```
 * **Database:** ```PostgreSQL```,```MySQL```
-* **Tools and Platform:** ```Git```,```Docker```
+* **Tools and Platform:** ```Git```
 
 
 ### To recruiters:
