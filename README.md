@@ -6,7 +6,7 @@
 
 * **Languages:** ```Python```,```C++```,```JavaScript```
 * **Concepts:** ```DSA```,```OOP```
-* **Libraries and Frameworks:** ```Odoo```,```Django```
+* **Frameworks:** ```Odoo```,```Django```
 * **Technologies:** `XML`, `Bootstrap`
 * **Databases:** ```PostgreSQL```,```MySQL```
 * **Tools:** ```Git```, ```Linux```
