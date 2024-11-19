@@ -7,7 +7,7 @@
 * **Languages:** ```Python```,```C++```,```JavaScript```
 * **Concepts:** ```DSA```,```OOP```
 * **Frameworks:** ```Odoo```,```Django```
-* **Technologies:** `XML`, `Bootstrap`
+* **Technologies:** `Owl JS`, `XML`, `Bootstrap`
 * **Databases:** ```PostgreSQL```,```MySQL```
 * **Tools:** ```Git```, ```Linux```
 
