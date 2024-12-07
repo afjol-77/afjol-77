@@ -4,7 +4,7 @@
 
 ### ⚙️ My skills include: 
 
-* **Languages:** ```Python```,```C++```,```JavaScript```
+* **Languages:** ```Python```,```JavaScript```,```C++```
 * **Concepts:** ```DSA```,```OOP```
 * **Frameworks:** ```Odoo```,```Django```
 * **Technologies:** `Owl JS`, `XML`, `Bootstrap`
