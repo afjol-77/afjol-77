@@ -22,7 +22,7 @@
 </p>
 
 ## GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afjol-77&show_icons=true&locale=en" alt="afjol-77" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afjol77&show_icons=true&locale=en" alt="afjol77" /></p>
 <br>
 
 **Thank you for visiting my profile**
@@ -31,7 +31,7 @@
 
 
 <!--
-**Afjol-77/Afjol-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**afjol77/afjol77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
